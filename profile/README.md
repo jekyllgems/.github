@@ -1,13 +1,3 @@
-## Hi there 👋
+![banner](https://user-images.githubusercontent.com/128629424/230615251-f5e2910a-9123-419f-b47b-c59427d74374.png)
 
-Just setting up and creating repos. Pinned to the top are "Plugins" and "Templates" to help you locate things a little easier. These are the repos. You can locate the gems on [Rubygems](https://rubygems.org) after they are developed. They use the typical Jekyll naming convention of jekyll-{projectName} which you can find on their respective pages on rubygems or on my site ate https://jekyllgems.dev
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Just setting up and creating repos. Pinned to the top are `Plugins`, `Templates`, and `gems` to help you locate things a little easier. These are the repos. You can locate the gems on [Rubygems](https://rubygems.org) after they are developed. They use the typical Jekyll naming convention of `jekyll-{projectName}` which you can find on their respective pages on rubygems or on my site at https://jekyllgems.dev any issues you run into (including broken links) please open an issues in the ["Gems"](https://github.com/jekyllgems/gems) repo. I use that to keep track of all issues in gems I produce. Documentation is in the ["Docs"](https://github.com/jekyllgems/docs) repo where you can find everything from Installation to contributing to projects.
